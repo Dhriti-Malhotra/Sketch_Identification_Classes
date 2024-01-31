@@ -1,0 +1,17 @@
+body
+{
+    background-color: plum;
+    color:mediumorchid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn-primary:hover
+{
+    background-color: darkorchid;
+}
+
+
+.btn-info:hover
+{
+    background-color: orchid;
+}
